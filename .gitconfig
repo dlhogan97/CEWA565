@@ -1,0 +1,7 @@
+[user]
+	email = dlhogan@uw.edu
+	name = Daniel Hogan
+[pull]
+	rebase = false
+[credentials]
+	helper = store
