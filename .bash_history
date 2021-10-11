@@ -60,3 +60,10 @@ git status
 git add .
 git commit -m 'updated homework with b part 4'
 git push
+git status
+git add .
+git commit -m 'Finished HW-1'
+git push
+git add .
+git commit -m 'added hw-2'
+git push
