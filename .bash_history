@@ -67,3 +67,13 @@ git push
 git add .
 git commit -m 'added hw-2'
 git push
+git config
+git config -l
+git config --global credential.helper=store
+git config --global credential.helper store
+git add .
+git commit -m 'to add credentials and store'
+git push
+git add .
+git commit -m 'final hw-1 submittal'
+git push
