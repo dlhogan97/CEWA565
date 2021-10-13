@@ -77,3 +77,15 @@ git push
 git add .
 git commit -m 'final hw-1 submittal'
 git push
+mv ./Week-1/HW-2 ./Week-2
+mv ./Week-1/HW-2/*.png ./Week-2/HW-2/
+mv ./Week-1/HW-1/*.png ./Week-2/HW-2/
+git status
+git add .
+git commit -m "HW-2 and lab-2 updates"
+git push
+git config --global --unset credential.helper
+git config -l
+git config --global --unset credentials.helper
+git config -l
+git push

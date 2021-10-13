@@ -3,7 +3,3 @@
 	name = Daniel Hogan
 [pull]
 	rebase = false
-[credentials]
-	helper = store
-[credential]
-	helper = store
