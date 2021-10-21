@@ -89,3 +89,24 @@ git config -l
 git config --global --unset credentials.helper
 git config -l
 git push
+git pull
+git status
+git status
+git pull
+git stash Week-2/HW-2/HW-2-dlhogan.ipynb 
+git stash push --include-untracked
+git pull
+ls -al
+chmod 600 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
+chmod 600 
+chmod --help 
+chmod 600 'CEWA565'
+git status
+git add .
+git commit -m "hw changes"
+git push
+git status
+git commit -a -m "removed errant lab2-1"
+git push
+jupyter nbconvert --to pdf Week-2/HW-2/HW-2-dlhogan.ipynb
+echo '' > fertilizer-data.txt
