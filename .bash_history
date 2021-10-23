@@ -110,3 +110,12 @@ git commit -a -m "removed errant lab2-1"
 git push
 jupyter nbconvert --to pdf Week-2/HW-2/HW-2-dlhogan.ipynb
 echo '' > fertilizer-data.txt
+git status
+git add .
+git commit -m 'HW-3 started along with other edits'
+git push
+git status
+git commit -a -m 'shut down kernels'
+git push
+git push
+git push
