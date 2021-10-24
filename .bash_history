@@ -119,3 +119,5 @@ git commit -a -m 'shut down kernels'
 git push
 git push
 git push
+git commit -a -m 'Finished HW-2'
+git push
