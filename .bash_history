@@ -121,3 +121,5 @@ git push
 git push
 git commit -a -m 'Finished HW-2'
 git push
+git commit -a -m 'finished hw-3 and downloaded data for week-4'
+git push
