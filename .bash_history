@@ -125,3 +125,18 @@ git commit -a -m 'finished hw-3 and downloaded data for week-4'
 git push
 git commit -a -m "HW-4 edits and addition of week 4"
 git push
+git pull
+git add .
+git commit -m "HW 4 complete"
+git push
+git status
+git add .
+git push -m "Homework 4 and Week 4 content"
+git commit -m "Homework 4 and Week 4 content"
+git push
+git status
+git add .
+git commit -m "added project folder and file for snotel sites"
+git push
+dlhogan97
+git push
