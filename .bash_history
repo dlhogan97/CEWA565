@@ -140,3 +140,7 @@ git commit -m "added project folder and file for snotel sites"
 git push
 dlhogan97
 git push
+git add .
+git commit -m "HW-5 complete and moving forward with other projects"
+git push]
+git push
