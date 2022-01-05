@@ -1,0 +1,12 @@
+{
+  "base_url": "/2021-autumn-cee-465-a/user/dlhogan/",
+  "hostname": "0.0.0.0",
+  "password": false,
+  "pid": 8,
+  "port": 8888,
+  "root_dir": "/home/jovyan",
+  "secure": false,
+  "token": "",
+  "url": "http://0.0.0.0:8888/2021-autumn-cee-465-a/user/dlhogan/",
+  "version": "1.6.4"
+}

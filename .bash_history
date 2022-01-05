@@ -151,3 +151,6 @@ git push
 git push
 git pull
 git push
+git add .
+git commit -m "hw-6"
+git push
